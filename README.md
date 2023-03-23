@@ -12,4 +12,6 @@ Input:
 
 
 Output
-   simple interest = p*t*r
+<ul>
+   <li>simple interest = p*t*r</li>
+</ul>
