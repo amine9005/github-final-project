@@ -4,9 +4,10 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 Input:
 <ul>
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
+   
+   <li>p, principal amount</li>
+   <li>t, time period in years</li>
+   <li>r, annual rate of interest</li>
 </ul>
 
 
